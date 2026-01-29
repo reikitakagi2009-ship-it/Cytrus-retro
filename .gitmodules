@@ -7,3 +7,6 @@
 [submodule "docs"]
 	path = libretro/docs
 	url = https://github.com/libretro/docs.git
+[submodule "libretro/cytrusの3dsコアの改善の際に参考にするコア/azahar"]
+	path = libretro/cytrusの3dsコアの改善の際に参考にするコア/azahar
+	url = https://github.com/azahar-emu/azahar
